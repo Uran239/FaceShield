@@ -1,7 +1,13 @@
 
 # Simple Covid19 FaceShield #
 
-Material: PETG oder ABS
+Man benötigt:
+- Gedrucktes Teil: FaceShield_A4_v1.stl
+- A4 Folie (Laminierfolie oder Overheadfolie)
+- Locher
+- Gummiband oder Bändel
+- Optional: Klebeband mit Schaumstoff für einen besseren Tragekomfort
+- Material: PETG oder ABS
 
 Lochen des Schildes:
 Den Locher auf A6 einstellen. Das Shield quer legen. Dann einmal links Lochen. Das Schild um 180° drehen und nochmals Lochen.
