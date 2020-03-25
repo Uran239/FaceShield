@@ -11,8 +11,8 @@ Man benötigt:
 
 Lochen des Schildes:
 - Den Locher auf A6 einstellen. 
-- Schild quer legen. Dann einmal links Lochen. 
-- Schild um 180° drehen und nochmals Lochen.
+- Schild quer legen. Dann einmal links lochen. 
+- Schild um 180° drehen und nochmals lochen.
 
 Video Anleiung: https://www.youtube.com/watch?v=AYeA4_6hbZ0
 Achtung: Wir lochen nur den oberen Teil. 
