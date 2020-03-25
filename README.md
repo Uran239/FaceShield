@@ -18,4 +18,4 @@ Video Anleiung: https://www.youtube.com/watch?v=AYeA4_6hbZ0
 Achtung: Wir lochen nur den oberen Teil. 
 
 Credits:
-- @Slider for modeling  
+- @Slidr for modeling  
