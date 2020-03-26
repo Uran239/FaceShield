@@ -3,9 +3,9 @@
 
 Man benötigt:
 - Gedrucktes Teil: FaceShield_A4_v1.stl
-- A4 Folie (Laminierfolie oder Overheadfolie)
+- A4 Folie (Laminierfolie oder Overheadfolie) Stärke: 0,2mm
 - Locher
-- Gummiband oder Bändel
+- Gummiband oder Bändel (z.B.: https://www.amazon.de/gp/product/B01LZE7KG7/ref=as_li_ss_tl)
 - Optional: Klebeband mit Schaumstoff für einen besseren Tragekomfort
 - Material: PETG oder ABS
 
